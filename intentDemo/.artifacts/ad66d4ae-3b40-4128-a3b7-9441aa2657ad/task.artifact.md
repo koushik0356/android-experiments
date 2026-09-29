@@ -1,0 +1,6 @@
+- [x] Fix `activity_main.xml` layout constraints
+    - [x] Rename `button3` to `btn_clear`
+    - [x] Set up vertical chain/constraints for Username, Password, and Buttons
+    - [x] Replace hardcoded text with strings/hints
+- [x] Update `MainActivity.kt` to reflect ID changes (if any beyond `btn_login`)
+- [x] Verify build and layout

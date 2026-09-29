@@ -1,0 +1,3 @@
+- `[x]` Update `gradle/libs.versions.toml` with WorkManager dependency
+- `[x]` Update `app/build.gradle.kts` to use `libs.androidx.work.runtime.ktx`
+- `[x]` Verify by running Gradle sync

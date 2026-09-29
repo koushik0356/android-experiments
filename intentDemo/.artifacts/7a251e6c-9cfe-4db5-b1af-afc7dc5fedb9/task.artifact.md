@@ -1,0 +1,4 @@
+- [ ] Fix Theme: Set windowBackground in `themes.xml`
+- [ ] Fix Layout: Update `activity_main.xml` with background and fitsSystemWindows
+- [ ] Restore Activity Logic: Re-enable edge-to-edge in `MainActivity.kt`
+- [ ] Verify: Deploy and take screenshot

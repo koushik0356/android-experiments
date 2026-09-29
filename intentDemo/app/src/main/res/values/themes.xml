@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.IntentDemo" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/black</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+    <style name="Theme.IntentDemo" parent="Base.Theme.IntentDemo" />
+</resources>
