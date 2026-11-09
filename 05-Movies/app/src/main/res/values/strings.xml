@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LayoutDemon</string>
+    <string name="table_layout">Table Layout</string>
+    <string name="grid_layout">Grid Layout</string>
+    <string name="scroll_view_grid_layout">Scroll View &amp; Grid Layout</string>
+    <string name="recycle_view">Recycle View</string>
+    <string name="checkbox_label">CheckBox</string>
+</resources>

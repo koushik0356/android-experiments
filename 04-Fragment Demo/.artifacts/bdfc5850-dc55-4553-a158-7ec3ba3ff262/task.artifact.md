@@ -1,0 +1,4 @@
+- [x] Update `strings.xml` with login labels
+- [x] Refactor `activity_main.xml` layout
+- [x] Add navigation logic in `MainActivity.kt`
+- [x] Verify the fixes
